@@ -1,5 +1,8 @@
 # Altcoin Monte Carlo Lab
 
+This is a test project to learn vibe coding and revise my probability and finance classes. This is unlikely to have much value.
+Instructions prepared by ChatGPT, coded from scratch by Cursor Grok 4.6 Medium.
+
 Local educational app for exploring Geometric Brownian Motion (GBM) Monte Carlo paths. It maps explicit return and volatility assumptions into a distribution of simulated outcomes. It is not a forecast, trading tool, or recommendation engine.
 
 ## Run
